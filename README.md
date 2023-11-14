@@ -1,5 +1,5 @@
 # nSGC-MDA
-** nSGC-MDA is a model for miRNA-disease association prediction based on Simple Graph Convolution with DropMessage and Jumping Knowledge **
+**nSGC-MDA is a model for miRNA-disease association prediction based on Simple Graph Convolution with DropMessage and Jumping Knowledge**
 
 <img src="https://github.com/bixuehua/nSGC-MDA/blob/main/Fig1.png">
 Fig. 1.The flowchart of nSGC-MDA. (1) Bipartite attributed network construction. (2) SGC with DropMessage and Jumping Knowledge. (3) MiRNA-disease association prediction.
