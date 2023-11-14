@@ -25,7 +25,7 @@ The data in this study are derived from the paper "Dai Q, Chu Y, Li Z, et al. MD
 - `data/miRNASim/SeqSim2.txt:`miRNA sequence similarity
 - `data/miRNASim/M_GIP.txt:`GIP similarity of miRNAs
 
-# src
+# Codes
 * The implementation of nSGC-MDA  
     ``model.py：`` The overall implementation code of the model        
 
