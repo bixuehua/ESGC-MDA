@@ -1,7 +1,7 @@
 # ESGC-MDA
 **ESGC-MDA is a model for miRNA-disease association prediction using enhanced simple graph convolutional networks**
 
-<img src="https://github.com/bixuehua/ESGC-MDA/blob/main/Fig1.png">
+<img src="https://github.com/bixuehua/ESGC-MDA/blob/main/figure1.png">
 Fig. 1.The flowchart of ESGC-MDA. (1) Bipartite attributed network construction. (2) SGC with DropMessage and Jumping Knowledge. (3) MiRNA-disease association prediction.
 
 # Dependencies
