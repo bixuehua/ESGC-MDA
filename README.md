@@ -1,8 +1,8 @@
-# nSGC-MDA
-**nSGC-MDA is a model for miRNA-disease association prediction based on Simple Graph Convolution with DropMessage and Jumping Knowledge**
+# ESGC-MDA
+**ESGC-MDA is a model for miRNA-disease association prediction using enhanced simple graph convolutional networks**
 
-<img src="https://github.com/bixuehua/nSGC-MDA/blob/main/Fig1.png">
-Fig. 1.The flowchart of nSGC-MDA. (1) Bipartite attributed network construction. (2) SGC with DropMessage and Jumping Knowledge. (3) MiRNA-disease association prediction.
+<img src="https://github.com/bixuehua/ESGC-MDA/blob/main/Fig1.png">
+Fig. 1.The flowchart of ESGC-MDA. (1) Bipartite attributed network construction. (2) SGC with DropMessage and Jumping Knowledge. (3) MiRNA-disease association prediction.
 
 # Dependencies
 Our model is implemented by Python 3.6 with Pytorch 1.10.0
@@ -26,7 +26,7 @@ The data in this study are derived from the paper "Dai Q, Chu Y, Li Z, et al. MD
 - `data/miRNASim/M_GIP.txt:`GIP similarity of miRNAs
 
 # Codes
-* The implementation of nSGC-MDA  
+* The implementation of ESGC-MDA  
     ``model.py：`` The overall implementation code of the model        
 
     ``train.py：`` Setting of experimental parameters and training of the model    
